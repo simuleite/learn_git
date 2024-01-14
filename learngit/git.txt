@@ -1,0 +1,3 @@
+So there is docs.
+Which describe why the .txt file will exist.
+All for learning git!
