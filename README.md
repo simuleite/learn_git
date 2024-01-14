@@ -1,2 +1,2 @@
 # learn_git
-For learning git command line
+For learning git command line.
